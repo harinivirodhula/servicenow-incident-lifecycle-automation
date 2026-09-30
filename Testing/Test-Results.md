@@ -1,19 +1,20 @@
 # Test Results
 
-## Execution Status
-Pending actual ServiceNow execution and evidence capture.
+## Current Status
+**Pending actual ServiceNow execution and evidence capture.**
 
-No fabricated Pass/Fail results are recorded in this repository.
+No Pass/Fail result is fabricated in this repository.
 
 ## Result Format
-For each executed test, record:
-
-- Test ID
-- Actual Result
-- Pass/Fail
-- Execution Date
-- Evidence Screenshot/File Reference
-- Notes or Defect ID, if applicable
-
-## Validation Scope
-Testing should cover the complete incident lifecycle, including incident fields, assignment, configuration item, hold state, child incident relationship, resolution information, SLA records, and final related-record validation.
+| Test ID | Actual Result | Pass/Fail | Execution Date | Evidence |
+|---|---|---|---|---|
+| TC-01 | Pending execution | Pending | — | — |
+| TC-02 | Pending execution | Pending | — | — |
+| TC-03 | Pending execution | Pending | — | — |
+| TC-04 | Pending execution | Pending | — | — |
+| TC-05 | Pending execution | Pending | — | — |
+| TC-06 | Pending execution | Pending | — | — |
+| TC-07 | Pending execution | Pending | — | — |
+| TC-08 | Pending execution | Pending | — | — |
+| TC-09 | Pending execution | Pending | — | — |
+| TC-10 | Pending execution | Pending | — | — |
